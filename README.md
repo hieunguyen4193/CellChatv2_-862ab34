@@ -2,6 +2,9 @@
   <img width="200"  src="https://github.com/jinworks/CellChat/blob/main/CellChat_Logo.png">
 </p>
 
+# Added note trnguyen[at]ukaachen.de
+ This repository is forked from the original CellChat v2 github repository at the specific commit 862ab34.
+
 # CellChat v2
 ## Version 2.1.0
 - CellChat v2 now enables the [inferrence of cell-cell communication from multiple spatially resolved transcriptomics datasets](https://htmlpreview.github.io/?https://github.com/jinworks/CellChat/blob/master/tutorial/CellChat_analysis_of_multiple_spatial_transcriptomics_datasets.html). Users should update the previously calculated individual CellChat object for spatial transcriptomics data analysis via `updateCellChat` function.
